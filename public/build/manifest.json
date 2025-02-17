@@ -14,5 +14,11 @@
     "name": "app",
     "src": "resources/js/app.js",
     "isEntry": true
+  },
+  "resources/js/script.js": {
+    "file": "assets/script-CZHGEePR.js",
+    "name": "script",
+    "src": "resources/js/script.js",
+    "isEntry": true
   }
 }
